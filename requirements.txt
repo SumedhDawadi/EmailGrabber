@@ -3,3 +3,4 @@ pip install requests
 pip install requests==2.3.0
 pip install pycopy-urllib.parse
 pip install compressed-deque
+pip3 install lxml
